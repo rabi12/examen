@@ -1,0 +1,17 @@
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1UTest.deps.json
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1UTest.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1UTest.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1UTest.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1UTest.pdb
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\bin\Debug\netcoreapp2.1\ConsoleApp1.pdb
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.csproj.CopyComplete
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1UTest\obj\Debug\netcoreapp2.1\ConsoleApp1UTest.pdb

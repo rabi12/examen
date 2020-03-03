@@ -1,0 +1,11 @@
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Examen.deps.json
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Examen.runtimeconfig.json
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Examen.runtimeconfig.dev.json
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Examen.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp2.1\Examen.pdb
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Examen.csprojAssemblyReference.cache
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Examen.csproj.CoreCompileInputs.cache
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Examen.AssemblyInfoInputs.cache
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Examen.AssemblyInfo.cs
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Examen.dll
+C:\Users\rabi.aranda\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp2.1\Examen.pdb
